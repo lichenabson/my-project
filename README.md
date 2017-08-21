@@ -40,12 +40,7 @@ vue / vuex / vue-router / N3 /axios
   * [x] 接口配置
   * [] mock
 
-布局
----
 
-> 二级路由下生效
-
-![Layout](./screenshot/layout.png)
 
 文件结构
 ---
