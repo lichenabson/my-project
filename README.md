@@ -1,11 +1,9 @@
-# N3-admin
 
 vue / vuex / vue-router / N3 /axios
-
 简述
 ---
 
-本项目基于N3-components提供基本组件，是入门vue全家桶较全面的demo，同时也是一套可扩展的Admin模板。N3-admin适用于单页应用的快速上手，并不仅限于N3-components的使用，而是提供一个**比较完善的项目构建的思路和结构**，提供给初学者学习。
+
 
 特性
 ---
@@ -103,7 +101,7 @@ vue / vuex / vue-router / N3 /axios
 │   │   │   ├── app.js
 │   │   │   └── user.js
 │   │   └── mutation-types.js
-│   ├── style                           <=  样式文件 
+│   ├── style                           <=  样式文件
 │   │   └── define.less
 │   ├── utils                           <=  utils
 │   │   ├── axios.js                    <=  axios
@@ -121,7 +119,7 @@ vue / vuex / vue-router / N3 /axios
 │           └── query.vue
 ├── static                              <=  服务器静态资源
 │   └── favicon.ico
-└── test                                <=  测试文件夹  
+└── test                                <=  测试文件夹
     └── unit
         ├── index.js
         ├── karma.conf.js

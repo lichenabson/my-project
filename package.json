@@ -1,8 +1,8 @@
 {
-  "name": "N3-Admin",
+  "name": "Admin",
   "version": "1.0.0",
-  "description": "N3-Admin: templates for N3-components",
-  "author": "x-cold <lxstart@outlook.com>",
+  "description": "templates for N3-components",
+  "author": "lichen",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
